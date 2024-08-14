@@ -57,6 +57,7 @@ header{
 .torrada{
    width: 85%;
    border-radius: 31px;
+   clip-path: inset(0px 0px 5px 0px);
 }
 
 .footer{
